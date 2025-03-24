@@ -1,14 +1,14 @@
-# A multi-step sign up process
+# A multi-page sign up process
 
 ## Objective
 
-Using React/Typscript, design and build a mostly _(it prints to console at the end instead of sending an API call)_ functional multi-step sign up process flow.
+Using React/Typscript, design and build a mostly _(it prints to console at the end instead of sending an API call)_ functional multi-page sign up process flow.
 
 You're welcome to take as long as you like but the idea is for this challenge to take no more than a few hours.
 
 ## Requirements
 
-- [ ] The form needs to ask the user for the following information and validate it:
+- [ ] The form needs to ask the user for the following information (broken into multiple "pages") and validate it:
    - email
    - password
    - name
